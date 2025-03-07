@@ -1,0 +1,18 @@
+#heading-id{
+    color: rgb(245, 247, 247);
+    background-color: rgb(112, 142, 231);
+}
+.heading-class{
+    color: blue;
+}
+body{
+    background-color: rgb(218, 202, 184);
+}
+button{
+    background-color: rgb(163, 96, 225);
+    color: white;
+    border: none;
+    padding: 1rem 2rem;
+    border-radius: 1rem;
+    font-size: 16px;
+}

@@ -1,0 +1,8 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(232, 172, 93);
+    color: white;
+    border-radius: 10px;
+    padding: 1rem;
+}
